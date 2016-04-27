@@ -1,0 +1,10 @@
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\Images.Domain.dll.config
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\Images.Domain.dll
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\Images.Domain.pdb
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\EntityFramework.dll
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\EntityFramework.xml
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.csprojResolveAssemblyReference.cache
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.dll
+c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.pdb
