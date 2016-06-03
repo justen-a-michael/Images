@@ -8,3 +8,13 @@ c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\bin\D
 c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.csprojResolveAssemblyReference.cache
 c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.dll
 c:\users\justen\documents\visual studio 2015\Projects\Images\Images.Domain\obj\Debug\Images.Domain.pdb
+C:\Users\Pillar Men\Documents\Images\Images.Domain\obj\Debug\Images.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\Images.Domain.dll.config
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\Images.Domain.dll
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\Images.Domain.pdb
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Pillar Men\Documents\Images\Images.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pillar Men\Documents\Images\Images.Domain\obj\Debug\Images.Domain.dll
+C:\Users\Pillar Men\Documents\Images\Images.Domain\obj\Debug\Images.Domain.pdb
